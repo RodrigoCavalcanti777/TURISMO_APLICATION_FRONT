@@ -1,0 +1,26 @@
+div {
+    width: 1920px; 
+    height: 1080px; position: relative;
+     background: #4682B4;
+      overflow: hidden
+}
+
+p {
+    left: 1130px;
+     top: 186px;
+      position: absolute;
+       color: white;
+        font-size: 100px;
+         font-family: Copperplate;
+          font-weight: 400;
+           letter-spacing: 50px;
+            word-wrap: break-word"
+}
+
+img {
+    width: 520px;
+     height: 400px;
+      left: 170px;
+       top: 306px;
+        position: absolute
+}
