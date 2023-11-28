@@ -1,4 +1,4 @@
-div {
+.cor-centro {
     width: 1920px; 
     height: 1080px; position: relative;
      background: #4682B4;
@@ -23,4 +23,26 @@ img {
       left: 170px;
        top: 306px;
         position: absolute
+}
+
+.form{
+    color: #000;
+      font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.Username{
+    padding: 5px;
+     border-radius: 5px;
+      width: 500px;
+      
+      
+      
+}
+
+.Password{
+    padding: 5px;
+     border-radius: 5px;
+      width: 500px;
+     
 }

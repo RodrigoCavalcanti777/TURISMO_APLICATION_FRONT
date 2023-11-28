@@ -1,6 +1,7 @@
-div {
+.cor-central {
     width: 1920px; 
-    height: 1080px; position: relative;
-     background: #4682B4;
-      overflow: hidden
+     height: 1080px; 
+      position: relative;
+       background: #4682B4;
+         overflow: hidden
 }
